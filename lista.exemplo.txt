@@ -1,0 +1,6 @@
+# Uma empresa por linha. Linhas com # são ignoradas.
+# Formatos aceitos:
+#   Nome da empresa
+#   Nome da empresa; Cidade/UF
+#   CNPJ (com ou sem pontuação)
+Nome da Empresa Exemplo

@@ -1,0 +1,8 @@
+{
+  "name": "recon-contatos",
+  "version": "1.0.0",
+  "description": "Acha WhatsApp, celular e telefone de uma lista de empresas",
+  "type": "module",
+  "bin": { "recon": "recon.js" },
+  "scripts": { "start": "node recon.js lista.txt" }
+}
